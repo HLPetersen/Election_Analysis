@@ -30,6 +30,7 @@ The analysis of the election shows that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
   -Diana Degette who received 73.8% of the vote which was 272,892 votes.
- 
+ <img width="234" alt="Capture" src="https://user-images.githubusercontent.com/116980760/203691318-4552c2e1-5077-4596-9050-3328d3d4910b.PNG">
+
 ## Election Audit Summary
-This script can be used for 
+This script can be used, with some modification, for any election. Counties can be changed to any subset of the voter turnout, such as state or providence if it is a larger election, by replacing county by the new subset that is wanted. The script counts the occurances of the county so any subset would work the same way. Also, the script can be altered to display the percentage of registered voters that participated in the election by comparing the total votes to the total number of registered voters in the election boundaries. 

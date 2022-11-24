@@ -1,7 +1,7 @@
 # <b> Election Analysis </b>
 
 ## <u>Overview of Election Audit</u>
-This is an election audit to analyze the results for the election commission. It includes the voter turnout for each county, percentages of total election votes for each county, the county with the highest voter turnout, the candidates, the percentage of votes each candidate received, the number of votes each candidate received, and the winner of the election.  
+This is an election audit to analyze the results of a U.S. congressional preceinct election in Colorado. The votes were cast by three methods: mail-in ballots, punch cards, and DRE counting machines. This analysis includes the total votes, voter turnout for each county, percentages of total election votes for each county, the county with the highest voter turnout, the candidates, the percentage of votes each candidate received, the number of votes each candidate received, and the winner of the election.  
 
 ## Resources
 - Data Source: election_results.csv
@@ -10,7 +10,7 @@ This is an election audit to analyze the results for the election commission. It
 ## Election-Audit Results
 The analysis of the election shows that:
 - There were 369,711 votes in the election.
-- There were three counties that voted.
+- There were three counties that voted in this election:
   - Jefferson
   - Denver
   - Arapahoe
@@ -32,3 +32,4 @@ The analysis of the election shows that:
   -Diana Degette who received 73.8% of the vote which was 272,892 votes.
  
 ## Election Audit Summary
+This script can be used for 

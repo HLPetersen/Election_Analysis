@@ -1,7 +1,7 @@
 # <b> Election Analysis </b>
 
 ## <u>Overview of Election Audit</u>
-This is an election audit to analyze the results for the election commission. It includes 
+This is an election audit to analyze the results for the election commission. It includes the voter turnout for each county, percentages of total election votes for each county, the county with the highest voter turnout, the candidates, the percentage of votes each candidate received, the number of votes each candidate received, and the winner of the election.  
 
 ## Resources
 - Data Source: election_results.csv
